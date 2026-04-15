@@ -2,7 +2,7 @@
 I honestly couldn't tell which it is, but I'm sure you can figure it out yourself
 
 ```lua
--- TODO: why are we saying this? who event put this here?
+-- TODO: why are we saying this? who even put this here?
 -- TODO (reply): shutup
 ```
 ### whoami
